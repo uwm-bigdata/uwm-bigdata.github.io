@@ -1,2 +1,7 @@
-# uwm-bigdata.github.io
-special issue on AI for wound assessment
+# Special Issue on Recent Advances in Artificial Intelligence for Wound Assessment
+<figure>
+  <img src="CFP-Poster.jpg" alt="CFP">
+  <figcaption>
+    
+  </figcaption>
+</figure>
